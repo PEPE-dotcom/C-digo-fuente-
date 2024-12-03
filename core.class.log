@@ -1,0 +1,203 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51959373020@s.whatsapp.net',
+    fromMe: false,
+    id: '361F3C320D9BB6CDDEACB730C3A2ADD9',
+    participant: undefined
+  },
+  messageTimestamp: 1732936277,
+  pushName: 'Bardales',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51959373020'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_40f3909b-e2cc-4425-8e37-81fabbf798a5',
+  keyword: 'key_365717c8-d994-4be7-ab67-e5f383d660c1',
+  answer: '🏍️ Bienvenido a *Consorcio Bardales*, la mejor tienda de repuestos y motos de todo Tarma.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd24d6d46b2f730c0946ae89040fb8c2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_61332604-0f21-4581-862c-9cb138642b1d',
+  keyword: 'ans_40f3909b-e2cc-4425-8e37-81fabbf798a5',
+  answer: '¿En qué puedo ayudarte hoy?\n' +
+    '👉 *1* 🏍️ Ver nuestras motos disponibles.\n' +
+    '👉 *2* ⚙️ Explorar repuestos y accesorios.\n' +
+    '👉 *3* 📍 Ver nuestra ubicación en Google Maps.\n' +
+    '👉 *4* 💬 Hablar con un asesor.\n' +
+    '👉 *5* 🌐 Visitar nuestra página de Facebook.\n' +
+    '👉 *6* ⏱️ Consultar nuestro horario de atención.\n' +
+    'Escribe el número correspondiente o la palabra *menu* para regresar al inicio en cualquier momento. 📲',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ef50ddbf6971ad9161b7dd115133f50'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51959373020@s.whatsapp.net',
+    fromMe: false,
+    id: '3C948712C10FEA68642FB27DCE0EDA37',
+    participant: undefined
+  },
+  messageTimestamp: 1732936296,
+  pushName: 'Bardales',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '51959373020'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9bfeb656-8250-4c47-826d-639320a159ff',
+  keyword: 'key_00372b0c-090f-4462-bc80-8d56494e4d27',
+  answer: 'Visita nuestra página de Facebook aquí: 🌐\n' +
+    '👉 [Consorcio Bardales](https://www.facebook.com/ConsorcioBardales?mibextid=ZbWKwL)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '411b183092ca1233795fd08a12f37420'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51959373020@s.whatsapp.net',
+    fromMe: false,
+    id: '4A9050D392EA203D9A19FC832C811A95',
+    participant: undefined
+  },
+  messageTimestamp: 1732936318,
+  pushName: 'Bardales',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '51959373020'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec1eedba-2aad-4cbe-89b2-7189238d0b01',
+  keyword: 'key_811d4b00-0464-48f8-b597-766f45d2dbe5',
+  answer: '¿En qué mas puedo ayudarte hoy?\n' +
+    '👉 *1* 🏍️ Ver nuestras motos disponibles.\n' +
+    '👉 *2* ⚙️ Explorar repuestos y accesorios.\n' +
+    '👉 *3* 📍 Ver nuestra ubicación en Google Maps.\n' +
+    '👉 *4* 💬 Hablar con un asesor.\n' +
+    '👉 *5* 🌐 Visitar nuestra página de Facebook.\n' +
+    '👉 *6* ⏱️ Consultar nuestro horario de atención.\n' +
+    'Escribe el número correspondiente o la palabra *menu* para regresar al inicio en cualquier momento. 📲',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '66467d487be7cb1ca4aa46d595beb760'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51959373020@s.whatsapp.net',
+    fromMe: false,
+    id: '0CC9F4729A7067F2D4C14C85ABDF51D4',
+    participant: undefined
+  },
+  messageTimestamp: 1732936326,
+  pushName: 'Bardales',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  from: '51959373020'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_122906e4-0b32-4f4c-b1a3-3d7296682c76',
+  keyword: 'key_06e555d0-56a0-41ba-99fa-0cc76ccf174d',
+  answer: '⏱️ Nuestro horario de atención es de lunes a viernes de 8:00 AM a 6:00 PM y sábados de 9:00 AM a 1:00 PM.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a1737222c08938b33f73ac7189333336'
+}
